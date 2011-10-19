@@ -1,0 +1,14 @@
+{
+  "name": "SpotlightJS",
+  "version": "0.0.1",
+  "description" : "Pure JS client for DBpedia Spotlight service",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/Spotlight",
+  "keywords": ["DBpedia", "Spotlight", "client", "anntation"],
+  "repository" : { 
+      "type" : "git" , "url" : "https://m1ci@github.com/m1ci/SpotlightJS.git" 
+  },
+  "author": "m1ci - Milan Dojchinovski - <http://www.dojchinovski.mk>"
+}
