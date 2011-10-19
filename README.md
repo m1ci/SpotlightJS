@@ -15,5 +15,6 @@ If you want to try the module or contribute improving it, you are welcome.
     
 ## Install
 
-You can install it by cloning the repository using git clone or you can install it with npm
+You can install it by cloning the repository using git clone or you can install it with npm.
+
     npm install SpotlightJS
