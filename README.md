@@ -1,4 +1,4 @@
-# Spotlight
+# SpotlightJS
 
 Spotlight is pure JavaScript client for the DBpedia Spotlight service.
 It is implemented in NodeJS.
