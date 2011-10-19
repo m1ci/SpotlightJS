@@ -12,3 +12,8 @@ If you want to try the module or contribute improving it, you are welcome.
     new Spotlight().annotate('JSON', 'application/json', 0.2, 20, function(data){
         console.log('annotate: ' + JSON.stringify(data));
     });
+    
+## Install
+
+You can install it by cloning the repository using git clone or you can install it with npm
+    npm install SpotlightJS
