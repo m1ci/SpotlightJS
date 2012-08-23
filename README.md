@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/m1ci/SpotlightJS.png)](http://travis-ci.org/m1ci/SpotlightJS)
 # SpotlightJS
 
 Spotlight is pure JavaScript client for the DBpedia Spotlight service.
